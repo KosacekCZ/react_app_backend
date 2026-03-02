@@ -3,3 +3,6 @@ Po vytvoření projektu který obsahuje package.json a server.js spustíme tyto 
 - npm i
 - npm install cors
 - npm install express
+
+### Spuštění serveru:
+- node .\server.js
